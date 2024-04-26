@@ -690,10 +690,10 @@
 .socialMeadiasContainer {
     width: 50%;
     height: 69%;
-    margin-right: 21px;
+    margin-right: 11px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: end;
 }
 
 .socialMeadias1 {
